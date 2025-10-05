@@ -2,10 +2,13 @@ User Management CRUD Application
 
 🚀 Features
 
-✅ Add users
-👁️ View user list
-✨ User-friendly interface
-🧪 Code covered with unit tests
+- Add users
+
+ -View user list
+
+- User-friendly interface
+
+- Code covered with unit tests
 
 
 ![crudapp](https://github.com/user-attachments/assets/3cb63137-0797-41a9-9772-1cda2d6f0abf)
