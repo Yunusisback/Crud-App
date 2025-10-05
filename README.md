@@ -4,7 +4,7 @@ User Management CRUD Application
 
 - Add users
 
- -View user list
+-View user list
 
 - User-friendly interface
 
