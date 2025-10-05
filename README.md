@@ -1,7 +1,5 @@
 User Management CRUD Application
 
-A modern web application built with React for adding and viewing users.
-
 🚀 Features
 
 ✅ Add users
