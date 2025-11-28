@@ -16,6 +16,7 @@ User Management CRUD Application
 
 
 🤝 Contributing
+
 This is a starter project. Feel free to fork and add more features like Edit/Delete or API integration.
 
 
